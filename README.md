@@ -33,6 +33,7 @@ Start with a small C++ prototype, validate the core gameplay loop, and expand on
 ## Documentation
 
 - [Game Overview](Docs/Game_Overview.md)
+- [Game Design Document](Docs/Game_Design_Document.md)
 - [Development Roadmap](Docs/Roadmap.md)
 - [Technical Architecture](Docs/Technical_Architecture.md)
 
