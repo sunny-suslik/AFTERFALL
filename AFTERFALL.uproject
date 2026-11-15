@@ -1,0 +1,13 @@
+{
+  "FileVersion": 3,
+  "EngineAssociation": "5.0",
+  "Category": "Games",
+  "Description": "AFTERFALL - C++ open-world survival game",
+  "Modules": [
+    {
+      "Name": "AFTERFALL",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ]
+}
