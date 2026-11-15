@@ -2,7 +2,7 @@
 
 #include "AFTERFALLCharacter.h"
 
-AA AFTERFALLGameModeBase::AA AFTERFALLGameModeBase()
+AAFTERFALLGameModeBase::AAFTERFALLGameModeBase()
 {
     DefaultPawnClass = AAFTERFALLCharacter::StaticClass();
 }
