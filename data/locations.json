@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "regions": [
+    {
+      "id": "starting_region",
+      "name": "Стартовый регион",
+      "status": "prototype",
+      "description": "Небольшая тестовая область для первых механик исследования."
+    }
+  ]
+}
