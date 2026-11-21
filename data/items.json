@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "items": [
+    {
+      "id": "water_clean",
+      "name": "Чистая вода",
+      "category": "consumable",
+      "description": "Бутылка очищенной питьевой воды.",
+      "stack_limit": 10
+    },
+    {
+      "id": "food_ration",
+      "name": "Сухой паёк",
+      "category": "consumable",
+      "description": "Простой запас еды длительного хранения.",
+      "stack_limit": 10
+    },
+    {
+      "id": "scrap_metal",
+      "name": "Металлолом",
+      "category": "resource",
+      "description": "Материал для ремонта и строительства.",
+      "stack_limit": 50
+    }
+  ]
+}
