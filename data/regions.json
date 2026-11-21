@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "world_target_km": [200, 200],
+  "regions": [
+    {
+      "id": "shelter_exterior",
+      "name": "Окрестности убежища",
+      "status": "prototype",
+      "description": "Первая тестовая область за пределами гражданского убежища.",
+      "danger_level": 1,
+      "recommended_for_first_visit": true
+    },
+    {
+      "id": "industrial_district",
+      "name": "Промышленный район",
+      "status": "planned",
+      "description": "Заброшенные производственные здания и склады.",
+      "danger_level": 2,
+      "recommended_for_first_visit": false
+    }
+  ]
+}
