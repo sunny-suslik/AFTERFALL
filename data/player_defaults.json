@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "player": {
+    "max_health": 100.0,
+    "health": 100.0,
+    "max_stamina": 100.0,
+    "stamina": 100.0,
+    "hunger": 100.0,
+    "thirst": 100.0,
+    "walk_speed": 4.5,
+    "sprint_speed": 7.0,
+    "jump_velocity": 4.5
+  }
+}
